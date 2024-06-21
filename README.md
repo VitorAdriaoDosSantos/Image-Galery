@@ -1,1 +1,1 @@
-A very simple image gallery with images from the series you chose. I accept suggestions for improvements my code.
+Aceito sugestões para melhorar o meu código.
